@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/arkishshah/Docker-Hive-Project)](https://github.com/arkishshah/Docker-Hive-Project/blob/master/LICENSE)
 # Docker-Hive-Project
 
 ## Overview:
